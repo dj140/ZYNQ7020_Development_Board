@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ZYNQ_MB")(type "KiCad")(uri "${KIPRJMOD}/ZYNQ_MB.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "zynq7000_mb")(type "KiCad")(uri "${KIPRJMOD}/zynq7000_mb.pretty")(options "")(descr ""))
+)
